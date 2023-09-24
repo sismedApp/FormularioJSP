@@ -1,2 +1,9 @@
-logica\Usuario.class
+persistencia\UsuarioJpaController.class
 com\proyectojsp\formulariojsp\servlets\SvUsuarios.class
+logica\Usuario.class
+persistencia\exceptions\NonexistentEntityException.class
+persistencia\exceptions\PreexistingEntityException.class
+persistencia\ControladoraPersistencia.class
+persistencia\exceptions\IllegalOrphanException.class
+logica\Controladora.class
+logica\Usuario_.class
